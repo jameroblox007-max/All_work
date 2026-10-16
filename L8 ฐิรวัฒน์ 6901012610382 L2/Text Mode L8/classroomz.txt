@@ -1,0 +1,10 @@
+id, name, course, age
+6901012610382, "Jameroblox", "Cpr.E", 19
+6901015467654, "Mark_zoz", "Pdf Teacher", 18
+6901049895645, "GongGoonGay", "Sexual Assault Specialist", 18
+539675, "mr.random", "Probability", 777
+676767676767, "Lebron Jame", "Basketball", 41
+696969696969, "Ishowmeat", "MeatShowing", 21
+0123456789, "My Mom", "Stupid", 999999
+110010101001, "Hacker", "Cyber Unsafe", 25
+979797979797, "Doogie", "Grief", 97

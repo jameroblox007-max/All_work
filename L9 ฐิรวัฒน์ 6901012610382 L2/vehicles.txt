@@ -1,0 +1,7 @@
+# type,license_plate,brand,model,year,daily_rate,extra
+# extra: Car = จำนวนที่นั่ง, Truck = น้ำหนักบรรทุก (กก.)
+Car,กค 1234,Toyota,Camry,2022,1500,5
+Car,3กธ 5678,Honda,City,2021,1000,5
+Car,ฮข 9012,Mazda,CX-5,2023,1800,7
+Truck,81-1234,Isuzu,D-Max,2021,2500,1000
+Truck,70-5678,Hino,300 Series,2020,3500,4000
